@@ -1,0 +1,7 @@
+../Src/lab.c:30:6:lab_init	1
+../Src/lab.c:44:6:process_input_buffer	2
+../Src/lab.c:119:25:x_delay	1
+../Src/lab.c:120:25:y_delay	1
+../Src/lab.c:123:9:process_left_sample	6
+../Src/lab.c:228:9:process_right_sample	1
+../Src/lab.c:244:6:process_output_buffer	1

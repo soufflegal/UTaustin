@@ -1,0 +1,6 @@
+../Src/lab.c:30:6:lab_init	3
+../Src/lab.c:103:6:lab_scrambler	3
+../Src/lab.c:131:6:process_input_buffer	2
+../Src/lab.c:170:9:process_left_sample	1
+../Src/lab.c:349:9:process_right_sample	1
+../Src/lab.c:365:6:process_output_buffer	1

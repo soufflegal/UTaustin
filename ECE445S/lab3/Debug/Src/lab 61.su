@@ -1,0 +1,5 @@
+../Src/lab.c:183:6:lab_init	24	static
+../Src/lab.c:252:6:process_input_buffer	24	static
+../Src/lab.c:308:9:process_left_sample	32	static
+../Src/lab.c:419:9:process_right_sample	24	static
+../Src/lab.c:436:6:process_output_buffer	16	static

@@ -1,0 +1,5 @@
+../Src/lab.c:71:7:lab_init	3
+../Src/lab.c:185:6:process_input_buffer	2
+../Src/lab.c:224:9:process_left_sample	1
+../Src/lab.c:403:9:process_right_sample	1
+../Src/lab.c:419:6:process_output_buffer	1

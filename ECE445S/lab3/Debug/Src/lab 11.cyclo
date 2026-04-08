@@ -1,0 +1,6 @@
+../Src/lab.c:30:6:lab_init	1
+../Src/lab.c:44:6:process_input_buffer	2
+../Src/lab.c:96:6:iir_reset_states	2
+../Src/lab.c:107:9:process_left_sample	7
+../Src/lab.c:167:9:process_right_sample	1
+../Src/lab.c:183:6:process_output_buffer	1
